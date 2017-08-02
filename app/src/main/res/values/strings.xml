@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyForm</string>
+    <string name="go_next">Go Next</string>
+    <string name="EditText_Name">Introduce your name</string>
+    <string name="radioButton_greeter">Greeter</string>
+    <string name="radioButton_farewell">Farewell</string>
+    <string name="btn_second_next">Next</string>
+    <string name="textView_secomnd_18">18</string>
+    <string name="third_activity_buttonSharing">Sharing</string>
+</resources>
